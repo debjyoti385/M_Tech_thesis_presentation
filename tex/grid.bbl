@@ -1,0 +1,38 @@
+\newcommand{\etalchar}[1]{$^{#1}$}
+\begin{thebibliography}{CFK{\etalchar{+}}00}
+
+\bibitem[BV05]{buyya2005gentle}
+Rajkumar Buyya and Srikumar Venugopal.
+\newblock Article: A gentle introduction to grid computing and technologies.
+\newblock {\em Journal: Database}, 2:R3, 2005.
+
+\bibitem[CFK{\etalchar{+}}00]{chervenak2000data}
+Ann Chervenak, Ian Foster, Carl Kesselman, Charles Salisbury, and Steven
+  Tuecke.
+\newblock The data grid: Towards an architecture for the distributed management
+  and analysis of large scientific datasets.
+\newblock {\em Journal of network and computer applications}, 23(3):187--200,
+  2000.
+
+\bibitem[Cht05]{chtepen}
+M.~Chtepen.
+\newblock Dynamic scheduling in grids system.
+\newblock {\em Sixth Firw PhD Symposium, Faculty of Engineering, Ghent
+  University}, page 110, 2005.
+
+\bibitem[GWA13]{gridload}
+GWA.
+\newblock The grid workloads archive, 2013.
+\newblock Online; accessed 10-April-2013, http://gwa.ewi.tudelft.nl/pmwiki/.
+
+\bibitem[KFK08]{kaplan2008revolutionizing}
+James~M Kaplan, William Forrest, and Noah Kindler.
+\newblock Revolutionizing data center energy efficiency.
+\newblock {\em McKinsey \& Company, Tech. Rep}, 2008.
+
+\bibitem[Pet07]{pettey2007gartner}
+Cris Pettey.
+\newblock Gartner estimates ict industry accounts for 2 percent of global co2
+  emissions, 2007.
+
+\end{thebibliography}

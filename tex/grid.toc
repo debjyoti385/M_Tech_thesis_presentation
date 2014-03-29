@@ -1,0 +1,9 @@
+\beamer@endinputifotherversion {3.10pt}
+\beamer@sectionintoc {1}{Motivation}{3}{0}{1}
+\beamer@sectionintoc {2}{Basic Concepts}{6}{0}{2}
+\beamer@sectionintoc {3}{Problem Statement}{9}{0}{3}
+\beamer@sectionintoc {4}{Contributions}{13}{0}{4}
+\beamer@sectionintoc {5}{Proposed Approach}{17}{0}{5}
+\beamer@sectionintoc {6}{Experimentation}{40}{0}{6}
+\beamer@sectionintoc {7}{Conclusions}{57}{0}{7}
+\beamer@sectionintoc {8}{Supplementary Info}{61}{0}{8}
